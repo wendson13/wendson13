@@ -2,7 +2,7 @@
 
 <div>
   <a href="https://github.com/wendson13">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendson13&layout=compact&langs_count=7&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendson13&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
 ### Tecnologias e Ferramentas

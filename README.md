@@ -1,4 +1,6 @@
-## Olá 👋, Eu sou Wendson, desenvolvedor web atualmente focado no front end.
+## Olá 👋
+
+### Eu sou Wendson, desenvolvedor web atualmente focado no front end com React JS.
 
 <div>
   <a href="https://github.com/wendson13">
